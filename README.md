@@ -1,5 +1,5 @@
 ```markdown
-# Raiam Santos 🚀
+# Raiam Santos  🚀
 
 ## Descrição do Projeto
 
@@ -36,7 +36,7 @@ Antes de começar, assegure-se de ter o [Node.js](https://nodejs.org/) instalado
 npm start
 ```
 
-Acesse o aplicativo em [https://raiamsantos.vercel.app/](https://raiamsantos.vercel.app/).
+Acesse o aplicativo em [http://localhost:3000](http://localhost:3000).
 
 ## Comandos Disponíveis
 
