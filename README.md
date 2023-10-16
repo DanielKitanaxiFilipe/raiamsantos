@@ -1,6 +1,3 @@
-Certamente! Se você estiver procurando por uma versão do README.md formatada em Markdown para ser utilizada em um repositório no GitHub, aqui está o código:
-
-```markdown
 # Plataforma de Conteúdo Raiam Santos 🚀
 
 ## Descrição do Projeto
