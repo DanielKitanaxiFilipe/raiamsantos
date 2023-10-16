@@ -37,7 +37,7 @@ Antes de iniciar, certifique-se de ter o [Node.js](https://nodejs.org/) instalad
 npm start
 ```
 
-Visite o aplicativo em [http://localhost:3000](http://localhost:3000).
+Visite o aplicativo em [raiamsantos](https://raiamsantos.vercel.app/).
 
 ## Comandos Disponíveis
 
