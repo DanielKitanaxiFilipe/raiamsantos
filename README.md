@@ -1,5 +1,5 @@
-
-# Raiam Santos Content Platform
+```markdown
+# Raiam Santos 🚀
 
 ## Descrição do Projeto
 
@@ -13,7 +13,7 @@ Este projeto é uma plataforma desenvolvida para agregar e exibir todo o conteú
 - **React Icons**: Ícones personalizáveis para React.
 - **React Toastify**: Biblioteca para notificações.
 
-## Pré-requisitos
+## Pré-requisitos 🛠️
 
 Antes de começar, assegure-se de ter o [Node.js](https://nodejs.org/) instalado.
 
@@ -36,7 +36,7 @@ Antes de começar, assegure-se de ter o [Node.js](https://nodejs.org/) instalado
 npm start
 ```
 
-Acesse o aplicativo em [http://localhost:3000](http://localhost:3000).
+Acesse o aplicativo em [https://raiamsantos.vercel.app/](https://raiamsantos.vercel.app/).
 
 ## Comandos Disponíveis
 
@@ -45,7 +45,7 @@ Acesse o aplicativo em [http://localhost:3000](http://localhost:3000).
 - **`npm test`**: Executa testes no aplicativo.
 - **`npm eject`**: Ejeta o projeto do Create React App.
 
-## Contribuição
+## Contribuição 🤝
 
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
@@ -58,4 +58,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 **Este README é um exemplo. Certifique-se de personalizá-lo conforme necessário para o seu projeto.**
 ```
 
-Lembre-se de personalizar as seções conforme a evolução do seu projeto.
+Sinta-se à vontade para ajustar ou adicionar emojis conforme achar adequado para o estilo do seu projeto!
